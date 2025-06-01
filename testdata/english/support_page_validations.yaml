@@ -1,0 +1,84 @@
+support_confirmation_message: |
+  Thank you for reaching out!
+  We have received your request and we'll be in touch shortly.
+
+walkthrough_list:
+    Slide Library: |
+        Search and download slide templates in your company brand and fill in with your ideas 
+    Auto Generator: |
+        Generate brand-compliant slides within seconds using Astrid AI.
+    My Workspace: |
+        Add and organize your files to instantly create or transform presentations with your data
+    Best Practice Library: |
+        Access best practices and examples for communicating key business concepts in slides and decks
+    Template Converter: |
+        Convert your slides using Astrid AI into any of your brand templates, while staying 100% brand compliant
+    Story Builder: |
+        Build personalized, brand-aligned presentation shells using our expert-curated storylines, and fill them in with your ideas.
+    Synthesis: |
+        Create a compelling executive summary for your deck using Astrid AI
+    Search: |
+        Search for People, Slides, Prezentations, Learn content, Best Practice Slides, Templates or Help resources
+    Overnight Prezentations: |
+        Send us your draft documents and receive designer-quality presentations overnight
+    Prezentation Library: |
+        Access best practice decks from Prezent, and presentation shells built by you or your colleagues
+    Share Free Trials: |
+        Invite your colleagues to try Prezent for free
+    Courses: |
+        Learn how you want, when you want with bite-sized, gamified learning modules on business communication
+    Fingerprints: |
+        Learn more about audience fingerprints, compare preferences of your colleagues or generate actionable insights using interactive tools
+    Profile: |
+        Edit your profile information, manage fingerprints, switch templates, or view your team activity
+    Add Audience: |
+        Add individual colleagues or groups as audience members
+    Redesign: |
+        Add designer-quality polish to your slides using Astrid AI
+    Default Download: |
+        Set your download preferences to save prezentations and slides in one click
+
+category_list:
+    - Slide Library
+    - Auto Generator
+    - My Workspace
+    - Best Practice Library
+    - Template Converter
+    - Story Builder
+    - Synthesis
+    - Search
+    - Overnight Prezentations
+    - Prezentation Library
+    - Courses
+    - Fingerprints
+    - Astrid AI
+    - Redesign
+    - Profile
+    - Trial
+    - Pricing
+    - Accelerator Projects
+    - Communication Workshops
+    - Uploader
+    - General
+    - Additional Questions
+
+categories:
+  - Slide Library:
+    - question: what is slide library?
+      answer: | 
+         Yes. The categories listed at the top of the Slide Library page reflect your most frequently searched categories. But
+         they only represent a fraction of the total categories that we have available. For example, you can also search for 
+         'Table of Contents' and other common keywords to find slides available for that specific category.
+    - question: Can I use the search bar to find a slide?
+      answer: |
+        Yes. The categories listed at the top of the Slide Library page reflect your most frequently searched categories. But they only represent a
+        fraction of the total categories that we have available. For example, you can also search for 'Table of Contents' and other common keywords
+        to find slides available for that specific category.
+  - Auto Generator:
+    - question: What is Auto Generator?
+      answer: | 
+         Auto Generator is an AI-powered prezentation building tool that assists users in creating professional
+         and visually appealing slides quickly and easily.       
+
+
+        

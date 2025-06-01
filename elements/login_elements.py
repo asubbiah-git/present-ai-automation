@@ -1,0 +1,5 @@
+Element_username = "#username"
+Element_continue = "#continue"
+Element_password = "#password"
+Element_welcome_text = "//span[contains(text(),'My Workspace')]"
+Element_slide_library = "//*[contains(text(), 'Slide Library')]"
