@@ -7,18 +7,6 @@ from pages.search import SearchInAPage
 from pages.support_page import SupportPage
 from utilities.utils import convert_string_to_func_name_Format
 
-"""def test_data(yaml_path):
-    def decorator(test_func):
-        @functools.wraps(test_func)
-        def wrapper(self, *args, **kwargs):
-            grandparent_dir = Path(__file__).resolve().parent.parent
-            updated_yaml_path = Path.joinpath(grandparent_dir, yaml_path)
-            with open(updated_yaml_path, "r") as f:
-                data = yaml.safe_load(f)
-            return test_func(self, yaml_data=data, *args, **kwargs)
-        return wrapper
-    return decorator"""
-
 def suite_data(yaml_path):
     def decorator(func):
         @wraps(func)
@@ -42,9 +30,7 @@ def go_to_faq_section(section):
             search_page = SearchInAPage(self)
             support_page.navigate_to_support_page()
             assert search_page.search_text_in_title(section) is True, f"{section}, is not found in title text"
-            print(section)
             support_page.expand_support_section(section)
-            time.sleep(10)
             return func(self, *args, **kwargs)
         return wrapper
     return decorator
